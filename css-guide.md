@@ -9,7 +9,7 @@
 
 	__Example__
 
-		` 
+		
 		.my-class,
 		.my-other-class {
 			background: #000;
@@ -29,28 +29,28 @@
 				nav li a {
 
 				}
-		`
+		
 * use a table of contents at the top of your file
 * use a prefix (like `::` or `$`) ahead of section labels so you can easily find the section from your text editor
 	__Example__
-	`
-	/* -------------------------------------------------- 
-   	Table of Contents
-	-----------------------------------------------------
-	Global Typography
-	Shared Styles
-	Contact Us
-	About Us
-	*/
+	
+		/* -------------------------------------------------- 
+	   	Table of Contents
+		-----------------------------------------------------
+		Global Typography
+		Shared Styles
+		Contact Us
+		About Us
+		*/
 
-	/* -----------------------------------------
-   	::Global Typography
-	----------------------------------------- */
+		/* -----------------------------------------
+	   	::Global Typography
+		----------------------------------------- */
 
-	* -----------------------------------------
-   	::Shared Styles
-	----------------------------------------- */
-	`
+		* -----------------------------------------
+	   	::Shared Styles
+		----------------------------------------- */
+	
 
 ## HTML decoupling and naming conventions
 
@@ -66,7 +66,7 @@
 
 	__Example__
 
-		`h1 {font-size: 20em / 16em } /* where 16px is your base body font-size */ `
+		h1 {font-size: 20em / 16em } /* where 16px is your base body font-size */ 
 
 ## Responsive Web Desgin
 
