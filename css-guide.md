@@ -32,6 +32,7 @@
 		
 * use a table of contents at the top of your file
 * use a prefix (like `::` or `$`) ahead of section labels so you can easily find the section from your text editor
+	
 	__Example__
 	
 		/* -------------------------------------------------- 
